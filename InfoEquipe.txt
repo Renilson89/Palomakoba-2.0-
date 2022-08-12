@@ -1,0 +1,30 @@
+(PO)
+Product Owner: 
+Equipe: A
+(SM)
+Scrum Master: Relinton Pinheiro
+
+Desenvolvedor: (Nome aqui)
+Habilidades: 
+Experiência:
+
+Desenvolvedor: (Nome aqui)
+Habilidades: 
+Experiência:
+
+Desenvolvedor: (Nome aqui)
+Habilidades: 
+Experiência:
+
+Desenvolvedor: (Nome aqui)
+Habilidades: 
+Experiência:
+
+Desenvolvedor: (Nome aqui)
+Habilidades: 
+Experiência:
+
+Desenvolvedor: (Nome aqui)
+Habilidades: 
+Experiência:
+.
